@@ -18,7 +18,7 @@ Alongside problem solving, I am actively expanding my expertise in **Frontend De
 ---
 
 ## 🔭 Current Activities
-- 🚀 I’m currently working with **React.js** working in a Project named **Book Vibe**  
+- 🚀 I’m currently working with **React.js** and working in a Project named **Book Vibe**  
 - 📱 I'm currently exploring **Next.js**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🎯 Preparing for **Internship Opportunities**
