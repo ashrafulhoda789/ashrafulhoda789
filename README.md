@@ -29,7 +29,7 @@ Alongside problem solving, I am actively expanding my expertise in **Frontend De
 
 <h2 align="center">🔥Languages and Frameworks and Tools🔥</h2>
 
-<div align="center">
+<div style='display: flex; justify-content: center; align-items:center; gap:10px; '>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
