@@ -8,7 +8,7 @@
 </h1>
 
 
-**Frontend Developer 🤚 | Expert in JavaScript, C++, Problem Solving |** <br><br>
+**Frontend Developer 🤚 | Expert in React.js, Next.js C++, Problem Solving |** <br><br>
 I am an undergraduate Computer Science & Engineering student with a strong foundation in problem solving and core programming concepts. My journey began with C and C++, where I developed a deep understanding of Data Structures and Algorithms (DSA) and applied them in competitive programming.
 
 Currently, I am a **Pupil on Codeforces** and a **2★ coder on CodeChef**, consistently solving algorithmic challenges that enhance my analytical thinking, optimize time complexity, and strengthen logical reasoning skills.
@@ -18,10 +18,9 @@ Alongside problem solving, I am actively expanding my expertise in **Frontend De
 ---
 
 ## 🔭 Current Activities
-- 🚀 I’m currently working with **React.js** and working in a Project named **Book Vibe**  
-- 📱 I'm currently exploring **Next.js**
+- 🚀 I’m currently working with **Express.js**  
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🎯 Preparing for **Internship Opportunities**
+- 🎯 Preparing for **Internship Opportunities & Team collaboration**
 - 📪 Reach me out: asrafulhoda789@gmail.com
 
 
@@ -29,33 +28,45 @@ Alongside problem solving, I am actively expanding my expertise in **Frontend De
 
 <h2 align="center">🔥Languages and Frameworks and Tools🔥</h2>
 
-<div align='center' >
+<div align='center'>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
+
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
+
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>
+
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+  </a>
+
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   </a>
 </div>
 
@@ -64,8 +75,8 @@ const ashrafulHoda = {
   pronouns: "he/him",
   code: ["C", "C++", "JavaScript"],
   technologies: {
-    frontend: ["HTML", "CSS", "Tailwind CSS", "Bootstrap", "DaisyUI", "JavaScript", "React.js"],
-    tools: ["Git", "GitHub", "VS Code", "Figma"]
+    frontend: ["Next.js", "React.js", "Tailwind CSS", "Bootstrap", "HeroUI", "DaisyUI", "JavaScript", "HTML", "CSS"],
+    tools: ["Git", "GitHub", "VS Code", "Figma", "Pixso"]
   },
   coreSkills: ["Data Structures", "Algorithms", "Problem Solving", "Competitive Programming"],
   achievements: {
