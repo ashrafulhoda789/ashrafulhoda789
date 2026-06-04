@@ -1,14 +1,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulhoda789&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulhoda789" /> </p>
 
-![Banner](https://i.ibb.co.com/h1Vg1LDC/Programmer.png)
+![Banner](https://i.ibb.co.com/NdYv0vw7/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello!+I+am+Ashraful+Hoda+Jamshed" />
 </h1>
 
 
-**Frontend Developer 🤚 | Expert in Next.js, React.js, C++, Problem Solving |** <br><br>
+**Full Stack Developer 🤚 | Expert in Next.js, React.js, C++, Problem Solving |** <br><br>
 I am an undergraduate Computer Science & Engineering student with a strong foundation in problem solving and core programming concepts. My journey began with C and C++, where I developed a deep understanding of Data Structures and Algorithms (DSA) and applied them in competitive programming.
 
 Currently, I am a **Pupil on Codeforces** and a **2★ coder on CodeChef**, consistently solving algorithmic challenges that enhance my analytical thinking, optimize time complexity, and strengthen logical reasoning skills.
