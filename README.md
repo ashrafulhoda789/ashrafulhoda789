@@ -86,9 +86,9 @@ const ashrafulHoda = {
   pronouns: "he/him",
   code: ["C", "C++", "JavaScript"],
   technologies: {
-    frontend: ["Next.js", "React.js", "Tailwind CSS", "Bootstrap", "HeroUI", "DaisyUI", "JavaScript", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "BtterAuth"],
+    frontend: ["Next.js", "React.js", "Tailwind CSS", "HeroUI", "DaisyUI", "JavaScript", "HTML", "CSS"],
+    backend: ["Node.js", "Express.js", "BetterAuth"],
+    database: ["MongoDB"],
     tools: ["Git", "GitHub", "VS Code", "Figma", "Pixso", "Vercel", "Netlify"]
   },
   coreSkills: ["Data Structures", "Algorithms", "Problem Solving", "Competitive Programming"],
@@ -99,7 +99,7 @@ const ashrafulHoda = {
   currentFocus: [
     "Exploring Next.js and building Web apps",
     "Practicing Advanced DSA",
-    "Preparing for internships"
+    "Preparing for internships / Full Stack Developer opportunities"
   ]
 };
 ```
