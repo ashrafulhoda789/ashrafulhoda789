@@ -20,8 +20,9 @@ Alongside problem solving, I am actively expanding my expertise in **Full Stack 
 ## 🔭 Current Activities
 - 🚀 I’m currently working with a Full Stack project **HireLoop**  
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🎯 Preparing for **Internship Opportunities & Team collaboration**
+- 🎯  Actively seeking **Internship / Full Stack Developer opportunities**
 - 📪 Reach me out: asrafulhoda789@gmail.com
+- 📞 Phone: +880 1818299406
 
 
 ---
