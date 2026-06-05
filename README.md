@@ -12,13 +12,13 @@
 I am an undergraduate Computer Science & Engineering student with a strong foundation in problem solving and core programming concepts. My journey began with C and C++, where I developed a deep understanding of Data Structures and Algorithms (DSA) and applied them in competitive programming.
 
 Currently, I am a **Pupil on Codeforces** and a **2★ coder on CodeChef**, consistently solving algorithmic challenges that enhance my analytical thinking, optimize time complexity, and strengthen logical reasoning skills.
-Alongside problem solving, I am actively expanding my expertise in **Frontend Development**, where I transform logical ideas into interactive, responsive, and user-friendly interfaces. I focus on writing clean, maintainable code and building UI that balances performance with design clarity.
+Alongside problem solving, I am actively expanding my expertise in **Full Stack Development**, where I transform logical ideas into interactive, responsive, and user-friendly interfaces. I focus on writing clean, maintainable code and building UI that balances performance with design clarity.
 
 
 ---
 
 ## 🔭 Current Activities
-- 🚀 I’m currently working with **Node.js(Express.js)**  
+- 🚀 I’m currently working with a Full Stack project **HireLoop**  
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🎯 Preparing for **Internship Opportunities & Team collaboration**
 - 📪 Reach me out: asrafulhoda789@gmail.com
