@@ -8,7 +8,7 @@
 </h1>
 
 
-**Full Stack Developer 🤚 | Expert in Next.js, React.js, C++, Problem Solving |** <br><br>
+**Frontend Developer 🤚 | Expert in Next.js, React.js, C++, Problem Solving |** <br><br>
 I am an undergraduate Computer Science & Engineering student with a strong foundation in problem solving and core programming concepts. My journey began with C and C++, where I developed a deep understanding of Data Structures and Algorithms (DSA) and applied them in competitive programming.
 
 Currently, I am a **Pupil on Codeforces** and a **2★ coder on CodeChef**, consistently solving algorithmic challenges that enhance my analytical thinking, optimize time complexity, and strengthen logical reasoning skills.
