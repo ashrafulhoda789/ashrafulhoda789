@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulhoda789&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulhoda789" /> </p>
 
-![Banner](https://i.ibb.co.com/NdYv0vw7/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png)
+![Banner](https://i.ibb.co.com/XZt7XLVK/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello!+I+am+Ashraful+Hoda+Jamshed" />
